@@ -9,7 +9,5 @@ def slice_simple():
 
 
 
-
-
 # Para verificar este ejercicio ejecutar el comando
 # `pytest tp3_slice_simple_test.py` o `python tp3_slice_simple_test.py`
