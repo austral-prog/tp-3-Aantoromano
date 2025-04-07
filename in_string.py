@@ -4,11 +4,13 @@ def check_vowels():
     #Antonella
 
     #Imprime en pantalla
-    print("a" in nombre)
-    print ("e" in nombre)
-    print ("i" in nombre)
-    print ("o" in nombre)
-    print ("u" in nombre)
+    print("Contiene a:", 'a' in nombre)
+    print("Contiene e:", 'e' in nombre)
+    print("Contiene i:", 'i' in nombre)
+    print("Contiene o:", 'o' in nombre)
+    print("Contiene u:", 'u' in nombre)
+
+
 
 # Para verificar este ejercicio ejecutar el comando
 # `pytest tp3_in_string_test.py` o `python tp3_in_string_test.py`
