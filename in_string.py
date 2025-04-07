@@ -1,6 +1,7 @@
 def check_vowels():
     # Código a implementar utilizando input.
     nombre= input()
+    nombre= nombre.lower() #Escribe todo en minúscula
     #Antonella
 
     #Imprime en pantalla
